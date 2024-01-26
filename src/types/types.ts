@@ -3,6 +3,7 @@ export interface IMovie {
   title: string
   release_date: string
   runtime: number
-  mppa_rating: string
+  mpaa_rating: string
   description: string
+  image: string
 }
